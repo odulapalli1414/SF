@@ -57,5 +57,4 @@ Feel free to open issues or submit pull requests if you’d like to contribute o
 ## 🌟 Show Your Support
 
 If this project helps streamline your file creation workflow, please ⭐ the repository and share it with others!
-```
 
