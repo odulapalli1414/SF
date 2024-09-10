@@ -35,11 +35,6 @@ Whether you're working on SQL queries, Java programs, or Python scripts, this to
 - **CSS**: Styling to make the interface sleek and modern.
 - **JavaScript**: Core functionality that handles string manipulation and clipboard interaction.
 
-## 💻 Setup
-
-Clone the repository:
-```bash
-git clone https://github.com/your-username/file-generator-tool.git
 ```
 
 Open `index.html` in your favorite browser to start using the tool instantly.
