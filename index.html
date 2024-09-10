@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>String Formatter</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the external CSS file -->
+    <link rel="shortcut icon" href="./images/logo 2.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h1>String Formatter</h1>
+        <label for="stringInput">Enter your string:</label><br>
+        <input type="text" id="stringInput" placeholder="Enter string here"><br><br>
+
+        <label for="extensionSelect">Choose file extension:</label><br>
+        <select id="extensionSelect">
+            <option value="java">Java</option>
+            <option value="sql">SQL</option>
+            <option value="python">Python</option>
+        </select><br><br>
+
+        <button id="formatBtn">Format String</button>
+        <p id="result"></p>
+
+        <!-- Copy button with tooltip -->
+        <button id="copyBtn" style="display: none;" class="tooltip">
+            Copy to Clipboard
+            <span class="tooltiptext" id="tooltipText">Copy</span>
+        </button>
+    </div>
+
+    <script src="script.js"></script> <!-- Link to the external JS file -->
+</body>
+</html>
