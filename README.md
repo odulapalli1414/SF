@@ -1,7 +1,5 @@
-Here’s the simpler markdown version of the README:
-
 ```markdown
-# File Generator Tool
+# File Name Generator Tool
 
 This tool automates the process of generating filenames based on specific conditions. Instead of manually typing and formatting file names, you can input a string and select the desired file extension, and the tool will format the filename accordingly.
 
@@ -27,16 +25,8 @@ This tool automates the process of generating filenames based on specific condit
 
 The purpose of this project is to save time by automating the repetitive process of manually formatting filenames. This tool is especially useful for developers working on multiple files where consistency in file naming is important.
 
-## Project Setup
-
-To run the tool locally:
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/file-generator-tool.git
    ```
-
-2. Open `index.html` in your browser to start using the tool.
+Open `index.html` in your browser to start using the tool.
 
 ## Future Enhancements
 
