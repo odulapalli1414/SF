@@ -1,7 +1,5 @@
-Here’s the complete README content in markdown format:
-
 ```markdown
-# 🚀 File Generator Tool
+# 🚀 File Name Generator Tool
 
 This project is designed to automate the generation of file names based on your input conditions, so you no longer have to manually create file names every time. Simply provide a string and select the desired file extension, and let the tool do the rest!
 
@@ -61,4 +59,3 @@ Feel free to open issues or submit pull requests if you’d like to contribute o
 If this project helps streamline your file creation workflow, please ⭐ the repository and share it with others!
 ```
 
-You can copy this directly into your `README.md` file for your GitHub repository.
