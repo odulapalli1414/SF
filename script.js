@@ -6,6 +6,11 @@ document.getElementById('formatBtn').addEventListener('click', function() {
     // Replace spaces with underscores and remove periods
     let formattedString = inputString.replace(/\./g, '').replace(/ /g, '_');
 
+    // Check if the extension is 'python' and change it to 'py'
+    if (extension.toLowerCase() === 'python') {
+        extension = 'py';
+    }
+
     // Combine with the extension
     let resultString = 'Q' + formattedString + '.' + extension;
 
